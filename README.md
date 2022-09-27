@@ -5,8 +5,5 @@
 <br>💼 I work as SysAdmin at Vevoat IT
 
 <p align="center">⚙️ Stack
-<br>💻 Linux ● Windows
+<br>💻🐧 Linux ● Windows
 <br>⭐ Debian (testing) ● Proxmox (testing) ● Zabbix (testing)
-
-  <p align="center">
-  <br>🐧 Instagram: [@mmateus.eduardo](https://www.instagram.com/mmateus.eduardo/)
