@@ -1,4 +1,4 @@
-<p align="center">Hello, I am Mateus Eduardo - Tequel :)
+<p align="center">Hello, I am Mateus Eduardo :)
 <br>About Me!<br>
 
 <p align="center">🙋 SysAdmin, bodybuilding, and in love with coffee!
