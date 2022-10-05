@@ -14,8 +14,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmateuseduardo&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <imga lt="Mateus-Linux" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+<div style="text-align:left inline_block"><br>
+  <img alt="Mateus-Linux" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
   <img alt="Mateus-CentOS" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
   <img alt="Mateus-Grafana" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img alt="Mateus-Bash" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
