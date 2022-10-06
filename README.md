@@ -8,7 +8,7 @@
 <br>💻🐧 Linux ● Windows
 <br>⭐ Debian (testing) ● Proxmox (testing) ● Zabbix (testing)<br>
 
-<div><br>
+<div>
   <a href="https://github.com/mmateuseduardo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mmateuseduardo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmateuseduardo&layout=compact&langs_count=16&theme=midnight-purple"/>
