@@ -1,7 +1,7 @@
 <p align="center">Hello, I am Mateus Eduardo :)
 <br>About Me!<br>
 
-<p align="center">🙋 SysAdmin, bodybuilding, and in love with coffee!
+<p align="center">🙋 SysAdmin, and in love with coffee!
 <br>💼 I work as SysAdmin at Vevoat IT
 
 <p align="center">⚙️ Stack
